@@ -1,4 +1,4 @@
-package com.mrc.apliacion;
+package com.mrc.aplicacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
